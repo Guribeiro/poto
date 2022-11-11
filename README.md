@@ -1,11 +1,11 @@
 <h1 align="center">
-	<img alt="sorocaps" src=".github/sorocaps.png" />
+	<img alt="poto" src="cover.png" />
 </h1>
 
 Here are the links to repositories
 
-- [REST API](https://github.com/Guribeiro/sorocaps-api)
-- [Web client](https://github.com/Guribeiro/sorocaps-web)
+- [REST API](https://github.com/Guribeiro/poto-api)
+- [Web client](https://github.com/Guribeiro/poto-app)
 
 ## 📝 License
 
