@@ -5,7 +5,7 @@
 Here are the links to repositories
 
 - [REST API](https://github.com/Guribeiro/poto-api)
-- [Web client](https://github.com/Guribeiro/poto-app)
+- [Mobile client](https://github.com/Guribeiro/poto-app)
 
 ## 📝 License
 
